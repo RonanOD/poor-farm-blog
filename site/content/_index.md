@@ -1,10 +1,10 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
+title: "Poor Farm"
+subtitle: A novel by Ronan O'Driscoll
 image: /img/home-jumbotron.jpg
 blurb:
     heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi mollis condimentum fermentum. Cras faucibus egestas auctor. Curabitur gravida ullamcorper ante, eu tincidunt neque bibendum pharetra. Fusce vitae eleifend ipsum, eget aliquam lectus. Donec pharetra, est sit amet sagittis fermentum, dui tellus sagittis neque, sed auctor nibh est et nisl. Nam varius arcu non posuere laoreet. Morbi maximus luctus purus in pretium."
 intro:
     heading: "What we offer"
     text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
